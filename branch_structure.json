@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "repoguard/fixes-1791605266928",
+    "vercel/react-server-components-cve-vu-t2yorm"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "repoguard/fixes-1791605266928": "main",
+    "vercel/react-server-components-cve-vu-t2yorm": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "repoguard/fixes-1791605266928",
+    "vercel/react-server-components-cve-vu-t2yorm"
+  ]
+}
